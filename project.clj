@@ -1,4 +1,4 @@
-(defproject org.clojure-grimoire/lein-grim (slurp "VERSION")
+(defproject org.clojars.rmoehn/lein-grim (slurp "VERSION")
   :description "A Leiningen plugin for generating Grimoire documentation"
   :url "http://github.com/clojure-grimoire/lein-grim"
   :license {:name "Eclipse Public License"
