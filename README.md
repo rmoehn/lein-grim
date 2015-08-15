@@ -4,7 +4,9 @@ A Leiningen plugin for generating [Grimoire](https://github.com/clojure-grimoire
 
 ## Usage
 
-[![Clojars Project](http://clojars.org/org.clojure-grimoire/lein-grim/latest-version.svg)](http://clojars.org/org.clojure-grimoire/lein-grim)
+```
+[org.clojars.rmoehn/lein-grim "0.3.9"]
+```
 
 In `.lein/profiles.clj`, add lein-grim to your leiningen `:dependencies` and create the lein-grim alias:
 
