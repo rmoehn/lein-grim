@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.10
+
+Nothing. This was just for fixing the version string.
+
 ## 0.3.9
 
  - Use Clojure 1.7.0 instead of 1.7.0-alpha.
